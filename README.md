@@ -13,7 +13,7 @@ This Terraform project deploys a highly available infrastructure on AWS with:
 - Secure network configuration
 
 ## 📊 Architecture
-![AWS Infrastructure Diagram](docs/images/architecture.png)
+![AWS Infrastructure Diagram](https://github.com/ahmedibra3/Terraform_Project/blob/main/docs/images/architecture.jpg)
 
 ## 🛠️ Prerequisites
 - Terraform >= 1.3.0
